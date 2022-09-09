@@ -1,0 +1,5 @@
+$refeiçao['prato principal'] = array('arroz' , 'feijao', 'macarrao', 'bife de carne');
+$refeiçao['salada'] = array('alface', 'tomate' , 'pepino');
+$refeiçao['bebida'] = array('suco de laranja natural');
+$curso['sobremesa'] = array('torta de limao');
+vd($refeiçao);
